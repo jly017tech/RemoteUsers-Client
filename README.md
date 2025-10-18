@@ -9,6 +9,8 @@
 
 <img width="1364" height="739" alt="image" src="https://github.com/user-attachments/assets/64794316-1008-46b4-981b-28c290e6609e" />
 
+<br>
+
 <p>
   This image shows a Remote Desktop connection being made to a Windows computer in my HuskyTech homelab. The Remote Desktop feature is turned on in Windows Settings, which allows the system to accept connections from other devices on the same network or domain. In the Remote Desktop Connection window, the user is connecting to DESKTOP-0TRL91E.HuskyTech.local using the domain account HUSKYTECH\Helpdesk.
 
@@ -17,6 +19,8 @@ This setup lets me manage and control my virtual machines from one workstation i
 
 
 <img width="972" height="598" alt="image" src="https://github.com/user-attachments/assets/8817b965-b02a-470d-9024-05ab214772de" />
+
+<br>
 
 <p>
 I am connecting to DESKTOP-0TRL91E.HuskyTech.local using the HUSKYTECH\Helpdesk domain account. At this stage, Windows asks for the account password to verify credentials before granting access.
