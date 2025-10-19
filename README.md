@@ -31,3 +31,18 @@ This step is part of establishing a secure remote session through Remote Desktop
 <br>
 
 <img width="810" height="602" alt="image" src="https://github.com/user-attachments/assets/ab2ee3f7-aec8-46f9-8e82-19da963945e0" />
+
+<p>As the Domain Controller is connecting to the other virutal machine, the other virtual machine will logout.</p>
+
+<br>
+
+<img width="1361" height="702" alt="image" src="https://github.com/user-attachments/assets/50966a27-859d-4781-b97a-f4fbdf229f83" />
+<br>
+<p>
+After successfully entering the credentials, the Remote Desktop session connects to the target computer DESKTOP-0TRL91E.HuskyTech.local. The desktop background displays the custom HuskyTech logo, confirming that the connection to the domain environment was established successfully.
+
+This final screen demonstrates a completed remote session inside the HuskyTech homelab, showing that Remote Desktop Protocol (RDP) is fully functional across the network. From here, the user can manage applications, perform administrative tasks, or test remote access tools like RustDesk and Microsoft Edge.
+
+Overall, this setup highlights how Remote Desktop can be used to simulate real-world IT environments—allowing administrators to securely connect, configure, and control systems within a virtual lab network.
+  
+</p>
