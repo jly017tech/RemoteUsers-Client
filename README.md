@@ -5,6 +5,7 @@
   A Remote Connection in Windows allows users or administrators to access and control another Windows computer or server from a different location, as if they were sitting directly in front of it. This capability is essential for IT management, troubleshooting, remote work, and system administration in both enterprise and homelab environments.
 </p>
 
+<br>
 
 <img width="1364" height="739" alt="image" src="https://github.com/user-attachments/assets/64794316-1008-46b4-981b-28c290e6609e" />
 
@@ -38,6 +39,8 @@ This step is part of establishing a secure remote session through Remote Desktop
 
 <img width="1361" height="702" alt="image" src="https://github.com/user-attachments/assets/50966a27-859d-4781-b97a-f4fbdf229f83" />
 <br>
+<hr>
+
 <p>
 After successfully entering the credentials, the Remote Desktop session connects to the target computer DESKTOP-0TRL91E.HuskyTech.local. The desktop background displays the custom HuskyTech logo, confirming that the connection to the domain environment was established successfully.
 
