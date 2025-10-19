@@ -33,6 +33,9 @@ This step is part of establishing a secure remote session through Remote Desktop
 
 <img width="810" height="602" alt="image" src="https://github.com/user-attachments/assets/ab2ee3f7-aec8-46f9-8e82-19da963945e0" />
 
+<br>
+
+
 <p>As the Domain Controller is connecting to the other virutal machine, the other virtual machine will logout.</p>
 
 <br>
