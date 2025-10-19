@@ -27,3 +27,8 @@ I am connecting to DESKTOP-0TRL91E.HuskyTech.local using the HUSKYTECH\Helpdesk 
 
 This step is part of establishing a secure remote session through Remote Desktop Protocol (RDP). It’s a common process in IT environments, where administrators or support technicians remotely log in to servers or client machines for troubleshooting, software updates, and general system management.
 </p>
+
+
+<br>
+
+<img width="810" height="602" alt="image" src="https://github.com/user-attachments/assets/ab2ee3f7-aec8-46f9-8e82-19da963945e0" />
